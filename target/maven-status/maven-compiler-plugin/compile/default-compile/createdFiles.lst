@@ -1,0 +1,6 @@
+csv/schema/parser/util/CsvParserUtil.class
+csv/schema/parser/service/CsvParserService.class
+csv/schema/parser/constants/SchemaDataTypes.class
+csv/schema/parser/task/CsvParserTask.class
+csv/schema/parser/constants/Constants.class
+csv/schema/parser/CsvParser.class
